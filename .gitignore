@@ -1,0 +1,7 @@
+node_modules/
+**/site_packages/
+**/__pycache__/
+virtualenv/
+src/yourfacehere/settings/reallocal.py
+src/yourfacehere/settings/production.py
+npm-debug.log
